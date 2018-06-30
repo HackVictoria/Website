@@ -80,7 +80,7 @@ class App extends Component {
           <p>
             This event is undergoing planning, fund-raising and development.
           </p>
-          <p>Tentative date: February, 2018</p>
+          <p>Tentative date: February, 2019</p>
         </header>
         <p>Interested in attending? Join our mailing list.</p>
         <MailchimpSubscribe
