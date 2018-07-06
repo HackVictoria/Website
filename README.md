@@ -1,9 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+# HackVictoria Website
+
+This repository contains all of the source code for the HackVictoria website as well as all visual media used within. To obtain original full-resolution copies of the aforementioned visual media, please see the [HackVictoria Marketing Resources Repository](https://github.com/HackVictoria/Marketing). The website is hosted by GitHub Incorporated via the free version of the GitHub Pages service.
+
+## Contributing
+
+We are accepting pull requests for this repository, and encourage knowledgable users of the website to contribute to the source in the way they see fit. If the change you would like to suggest is quite large or significant, we would encourage you to submit an issue to the active GitHub Issues tracking service for this repository to discuss the changes you would like to make before putting in the effort; simply prepend the title of an issue submission with the text `[Major Change Request] ` and specify what you would like to change as well as your reasoning behind the suggestion. 
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
-
-## Table of Contents
 
 - [Updating to New Releases](#updating-to-new-releases)
 - [Sending Feedback](#sending-feedback)
